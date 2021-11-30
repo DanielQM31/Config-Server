@@ -9,7 +9,7 @@ spring:
       server:
         git:
           uri: https://github.com/DanielQM31/Config-Data.git
-          searchPaths: config-data
+          searchPaths: configData
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
           force-pull: true
