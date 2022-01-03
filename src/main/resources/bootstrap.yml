@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/DanielQM31/Config-Data.git
+          uri: https://github.com/DanielQM31/configData.git
           searchPaths: configData
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
